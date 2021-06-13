@@ -1,16 +1,24 @@
-### Hi there 👋
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=ahnuchen&show_icons=true&&theme=default&hide=["contribs"]&&hide_title=false' /> 
 
-<!--
-**ahnuchen/ahnuchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello World! 👋
 
-Here are some ideas to get you started:
+Hi, I'm [ahnuchen](https://xue.ccy1994.com), a full-stack 🎶 developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about anything👉 [here](https://github.com/huiyadanli/ahnuchen/issues).
+
+![](https://visitor-badge.laobi.icu/badge?page_id=ahnuchen.ahnuchen)
+
+
+
+<!-- 
+
+[![stat](https://github-readme-stats.vercel.app/api?username=ahnuchen&show_icons=true&&theme=default&hide=["contribs"])](https://github.com/ahnuchen)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnuchen&layout=compact)](https://github.com/ahnuchen)
+
+<details>
+<summary>CLICK ME</summary>
+
+![ip test](https://ip.ntrqq.net/images/yosuga.png?wd=JTIw&r=f7eppzl6j6)
+</details> -->
+
