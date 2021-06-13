@@ -12,6 +12,6 @@ Hi, I'm [ahnuchen](https://xue.ccy1994.com), a full-stack 🎶 developer.
 <details>
 <summary>IP TEST</summary>
 
-![ip test](https://ip.ntrqq.net/images/lovelive.png?wd=SGVsbG8lMjBXb3JsZCE=&r=03dcdomg3kdm)
+![ip test](https://ip.ntrqq.net/images/lovelive.png?wd=SGVsbG8lMjBXb3JsZCE=)
 </details>
 
