@@ -9,16 +9,9 @@ Hi, I'm [ahnuchen](https://xue.ccy1994.com), a full-stack 🎶 developer.
 ![](https://visitor-badge.laobi.icu/badge?page_id=ahnuchen.ahnuchen)
 
 
-
-<!-- 
-
-[![stat](https://github-readme-stats.vercel.app/api?username=ahnuchen&show_icons=true&&theme=default&hide=["contribs"])](https://github.com/ahnuchen)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnuchen&layout=compact)](https://github.com/ahnuchen)
-
 <details>
-<summary>CLICK ME</summary>
+<summary>IP TEST</summary>
 
-![ip test](https://ip.ntrqq.net/images/yosuga.png?wd=JTIw&r=f7eppzl6j6)
-</details> -->
+![ip test](https://ip.ntrqq.net/images/lovelive.png?wd=SGVsbG8lMjBXb3JsZCE=&r=03dcdomg3kdm)
+</details>
 
