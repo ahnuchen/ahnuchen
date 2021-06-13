@@ -8,10 +8,10 @@ Hi, I'm [ahnuchen](https://xue.ccy1994.com), a full-stack 🎶 developer.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ahnuchen.ahnuchen)
 
-
 <details>
-<summary>IP TEST</summary>
+<summary>More</summary>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huiyadanli&layout=compact)](https://github.com/huiyadanli)
 
-![ip test](https://ip.ntrqq.net/images/lovelive.png?wd=SGVsbG8lMjBXb3JsZCE=)
 </details>
 
