@@ -11,7 +11,7 @@ Hi, I'm [ahnuchen](https://xue.ccy1994.com), a full-stack 🎶 developer.
 <details>
 <summary>More</summary>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huiyadanli&layout=compact)](https://github.com/huiyadanli)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnuchen&layout=compact)](https://github.com/huiyadanli)
 
 </details>
 
