@@ -2,9 +2,9 @@
 
 ### Hello World! 👋
 
-Hi, I'm [ahnuchen](https://xue.ccy1994.com), a full-stack 🎶 developer.
+Hi, I'm [ahnuchen](https://xue.ccy1994.top), a full-stack 🎶 developer.
 
-💬 Ask me about anything👉 [here](https://github.com/huiyadanli/ahnuchen/issues).
+💬 Ask me about anything👉 [here](https://github.com/ahnuchen/ahnuchen/issues).
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ahnuchen.ahnuchen)
 
